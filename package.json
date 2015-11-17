@@ -28,8 +28,8 @@
       "lib": "dist/amd"
     },
     "dependencies": {
-      "aurelia-dependency-injection": "github:aurelia/dependency-injection@^0.12.1",
-      "aurelia-http-client": "github:aurelia/http-client@^0.13.0",
+      "aurelia-dependency-injection": "npm:aurelia-dependency-injection@^1.0.0-beta.1",
+      "aurelia-http-client": "npm:aurelia-http-client@^1.0.0-beta.1",
       "core-js": "npm:core-js@^1.2.6"
     },
     "devDependencies": {
